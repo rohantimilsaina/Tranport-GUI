@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransportGUI
+comment1.params=
+comment1.target=void\ TransportGUI()
+comment2.params=
+comment2.target=void\ AutoRickshaw()
+comment3.params=
+comment3.target=void\ ElectricScooter()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\r\n\ @author\ (Rohan\ Timilsaina)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Vehicle_ID\ Vehicle_Name\ Vehicle_Color\ Vehicle_Weight
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getVehicle_ID()
+comment3.params=
+comment3.target=java.lang.String\ getVehicle_Name()
+comment4.params=
+comment4.target=java.lang.String\ getVehicle_Weight()
+comment5.params=
+comment5.target=java.lang.String\ getVehicle_Color()
+comment6.params=
+comment6.target=java.lang.String\ getVehicle_Speed()
+comment7.params=Vehicle_Color
+comment7.target=void\ setVehicleColor(java.lang.String)
+comment8.params=Vehicle_Speed
+comment8.target=void\ setVehicleSpeed(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
